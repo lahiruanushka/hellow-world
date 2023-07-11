@@ -1,1 +1,3 @@
-hellow world
+<?php
+  echo "Hellow world";
+?>
